@@ -1,0 +1,13 @@
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.exe
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.deps.json
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.runtimeconfig.json
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.runtimeconfig.dev.json
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.dll
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\bin\Debug\netcoreapp3.1\Classes-List-pratica.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.csprojAssemblyReference.cache
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.AssemblyInfoInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.AssemblyInfo.cs
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.csproj.CoreCompileInputs.cache
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.dll
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.pdb
+C:\Users\Mr Coutinho\Desktop\Programação\GitHub\C#\Classes-List-pratica\obj\Debug\netcoreapp3.1\Classes-List-pratica.genruntimeconfig.cache
